@@ -9,10 +9,13 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "axios": "^1.4.0",
     "expo": "~49.0.5",
     "expo-status-bar": "~1.6.0",
+    "fuzzylite": "^0.5.2",
     "react": "18.2.0",
-    "react-native": "0.72.3"
+    "react-native": "0.72.3",
+    "react-native-sensors": "^7.3.6"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
